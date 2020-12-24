@@ -1,0 +1,7 @@
+1608504986.92
+2020-12-20 17:56:26
+curretPosFile: 1 currentTile: 57
+whole pos Files: 1 totalTiles: 60
+ unfinished Tiles: 3
+1
+57

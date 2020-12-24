@@ -1,0 +1,8 @@
+number of .pos files
+1
+total tiles
+60
+maximum tile per file
+100
+posfile#1has tiles:
+60
